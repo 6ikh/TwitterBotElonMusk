@@ -2,6 +2,8 @@
 
 This script is designed to automate tweets on Twitter using the Twitter API. It sends out daily tweets at 9:00 AM, incrementing a counter in the message each day, and requests Elon Musk to gift the bot a new Tesla.
 
+Twitter profile: https://twitter.com/6ikhbot
+
 ## Prerequisites
 
 Before using this script, make sure you have the following:
